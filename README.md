@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, sou o Lourenço Lima!
 
-<!--
-**lourencotestalima-dev/lourencotestalima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software, atuo nessa área desde 2019.
 
-Here are some ideas to get you started:
+## Top skills
+- 💻 Linguagens: JavaScript, TypeScript, C#
+- 🛠️ Backend: Node.js (Express, TypeORM)
+- 🖥️ Frontend Web/Mobile: React, Angular e React Native
+- 👨🏻‍💻 Outros: Git, Docker, Arquitetura de Software, Clean Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links/Contatos
+- GitHub: [lourencotestalima-dev](https://github.com/lourencotestalima-dev)
+- LinkedIn: https://www.linkedin.com/in/louren%C3%A7o-lima-938845134/
+- Email: lourencotestalima@gmail.com
