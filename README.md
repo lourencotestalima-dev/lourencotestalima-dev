@@ -2,6 +2,8 @@
 
 Sou desenvolvedor de software, atuo nessa área desde 2019.
 
+![](https://komarev.com/ghpvc/?username=lourencotestalima-dev&color=orange)
+
 ## Top skills
 - 💻 Linguagens: JavaScript, TypeScript
 - 🛠️ Backend: Node.js (Express, TypeORM)
